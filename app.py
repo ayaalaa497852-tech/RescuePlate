@@ -449,3 +449,8 @@ def seed_demo():
         log(c,None,'demo_seed','Demo accounts, referenced menu prices, simulated discounts')
 
 seed_demo()
+
+
+if __name__ == '__main__':
+    import uvicorn
+    uvicorn.run(app, host='0.0.0.0', port=int(os.getenv('PORT', '8000')))
