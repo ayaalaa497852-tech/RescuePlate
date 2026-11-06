@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="440" viewBox="0 0 680 440" role="img" aria-label="Illustrated meal">
+ <defs><radialGradient id="b"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#dce7d6"/></radialGradient><filter id="s"><feGaussianBlur stdDeviation="11"/></filter></defs>
+ <rect width="680" height="440" fill="url(#b)"/><ellipse cx="355" cy="355" rx="235" ry="29" fill="#789077" opacity=".23" filter="url(#s)"/>
+ <circle cx="340" cy="215" r="180" fill="#ffffff"/><circle cx="340" cy="215" r="162" fill="#f7e8cc"/><circle cx="340" cy="215" r="140" fill="#fff7e8"/>
+ <path d="M235 150 Q292 98 354 154 Q398 194 346 226 Q264 275 220 224Z" fill="#b97641"/><path d="M365 180 Q421 126 468 184 Q475 252 395 263 Q333 240 365 180Z" fill="#b97641" opacity=".92"/>
+ <g fill="#5d9a4b"><ellipse cx="250" cy="270" rx="56" ry="23" transform="rotate(-20 250 270)"/><ellipse cx="390" cy="289" rx="58" ry="22" transform="rotate(29 390 289)"/><ellipse cx="310" cy="310" rx="32" ry="20"/></g>
+ <g fill="#e7bb57"><circle cx="300" cy="170" r="13"/><circle cx="417" cy="210" r="12"/><circle cx="260" cy="225" r="9"/><circle cx="348" cy="265" r="10"/></g>
+ <g stroke="#ffffff" stroke-width="5" opacity=".55" stroke-linecap="round"><path d="M260 157q23 -14 48 2"/><path d="M384 182q19 -13 38 1"/></g>
+ <path d="M46 60q52 -52 99 0" fill="none" stroke="#6f976d" stroke-width="5" opacity=".4"/><path d="M526 368q45 -36 103 -6" fill="none" stroke="#bf9a60" stroke-width="4" opacity=".5"/>
+ </svg>
